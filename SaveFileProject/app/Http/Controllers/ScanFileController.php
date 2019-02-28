@@ -23,7 +23,7 @@ class ScanFileController extends Controller
      */
     public function create()
     {
-        //
+        // 
     }
 
     /**

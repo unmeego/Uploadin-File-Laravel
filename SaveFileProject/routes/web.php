@@ -21,3 +21,4 @@ Route::get('/upload', function () {
 });
 
 Route::post('/scan_file', 'ScanFileController@store');
+ 
